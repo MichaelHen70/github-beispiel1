@@ -1,1 +1,3 @@
 Erstes Beispiel für eine github erstellte Datei
+erste lokal hinzugefügte Zeile
+
